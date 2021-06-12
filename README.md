@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**AirboZH/AirboZH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋 I am  Abhijeet Chatterjee  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>  
 
-Here are some ideas to get you started:
+## **Github Stats:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirboZH">  
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AirboZH">  
+</p>
+            
+  
+
+
